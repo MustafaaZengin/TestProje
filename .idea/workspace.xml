@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="426aa9cd-a3c4-490b-9cd2-21f80b6d65a8" name="Default Changelist" comment="" />
+    <list default="true" id="426aa9cd-a3c4-490b-9cd2-21f80b6d65a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TestProje.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint-state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/n11/test/setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/n11/test/setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/TestProje.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/n11/home/page$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/n11/home/page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/n11/home/setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/n11/home/testCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/TestProje.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/n11/test/setting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/n11/test/setting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/n11/test/testCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/n11/test/testCase.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +30,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1XhLcNir2Be7aDdqC9K72cU6G8p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +51,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -131,7 +162,28 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Settings" timestamp="1585902568878">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Settings/0.0.1280.680@0.0.1280.680" timestamp="1585902568878" />
+    <state x="233" y="0" key="#SonarLint" timestamp="1585902558180">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#SonarLint/0.0.1280.680@0.0.1280.680" timestamp="1585902558180" />
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1581493821948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -140,21 +192,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="286" y="44" key="#testCase.test_1_3_loginControl/0.0.1366.728@0.0.1366.728" timestamp="1581505347620" />
-    <state width="1323" height="202" key="GridCell.Tab.0.bottom" timestamp="1581535855914">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1222" height="180" key="GridCell.Tab.0.bottom" timestamp="1585903228453">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1222" height="180" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585903228453" />
     <state width="1323" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581535855914" />
-    <state width="1323" height="202" key="GridCell.Tab.0.center" timestamp="1581535855914">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1222" height="180" key="GridCell.Tab.0.center" timestamp="1585903228453">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1222" height="180" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585903228453" />
     <state width="1323" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581535855914" />
-    <state width="1323" height="202" key="GridCell.Tab.0.left" timestamp="1581535855914">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1222" height="180" key="GridCell.Tab.0.left" timestamp="1585903228453">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1222" height="180" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585903228453" />
     <state width="1323" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581535855914" />
-    <state width="1323" height="202" key="GridCell.Tab.0.right" timestamp="1581535855914">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1222" height="180" key="GridCell.Tab.0.right" timestamp="1585903228453">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1222" height="180" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585903228453" />
     <state width="1323" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581535855914" />
     <state width="1323" height="202" key="GridCell.Tab.1.bottom" timestamp="1581535855915">
       <screen x="0" y="0" width="1366" height="728" />
@@ -176,14 +232,23 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581500555880" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581527850009">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585901667845">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585901667845" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1585901707941">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585901707941" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581527850009" />
     <state x="65" y="71" key="new project wizard" timestamp="1581500898227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="71" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581500898227" />
+    <state x="113" y="96" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1585902555108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="113" y="96" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard/0.0.1280.680@0.0.1280.680" timestamp="1585902555108" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1581532805821">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
