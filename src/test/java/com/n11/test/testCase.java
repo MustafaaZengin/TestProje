@@ -66,12 +66,12 @@ public class testCase extends page {
         findByClassName("myBasket").click();
         System.out.println(" Sepete girildi ");
     }
-    @Test
+   /* @Test
     public void test_1_9_spinnerArrow(){
         wait.until(elementClickableByClassName("spinnerArrow"));
         findByClassName("spinnerArrow").click();
         System.out.println(" Sepetteki ürün sayısı arttırıldı ");
-    }
+    }*/
     @Test
     public void test_2_1_deleteBasket() throws InterruptedException{
         wait.until(elementClickableByXpad(".//*[@class='prodDetail']/div[3]/div[2]/span[1]"));
