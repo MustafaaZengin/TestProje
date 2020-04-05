@@ -4,6 +4,11 @@
     <list default="true" id="426aa9cd-a3c4-490b-9cd2-21f80b6d65a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/n11/test/testCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/n11/test/testCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/report-task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/n11/test/page$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/n11/test/page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/n11/test/setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/n11/test/testCase.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
