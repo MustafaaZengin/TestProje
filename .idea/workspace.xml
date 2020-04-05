@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="426aa9cd-a3c4-490b-9cd2-21f80b6d65a8" name="Default Changelist" comment="" />
+    <list default="true" id="426aa9cd-a3c4-490b-9cd2-21f80b6d65a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/n11/test/testCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/n11/test/testCase.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

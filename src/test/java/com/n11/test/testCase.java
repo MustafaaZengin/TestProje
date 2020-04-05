@@ -64,7 +64,7 @@ public class testCase extends page {
     public void test_1_8_clickBasket(){
         wait.until(elementClickableByClassName("myBasket"));
         findByClassName("myBasket").click();
-        System.out.println(" Sepete girildi ");
+        System.out.println(" Sepete  ");
     }
    /* @Test
     public void test_1_9_spinnerArrow(){
