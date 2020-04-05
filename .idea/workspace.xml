@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="426aa9cd-a3c4-490b-9cd2-21f80b6d65a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf7170ae91e6dbdee71862baa3d82a9c559c4584" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5e0e3b4e1c7a32feea90df85f2bff48a8d3869b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1e3d30db346d0de8e8cad19962c65fe3eb8fcf7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/n11/test/testCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/n11/test/testCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/n11/test/setting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/n11/test/setting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/n11/test/testCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/n11/test/testCase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,14 +169,18 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="0" key="#Project_Settings" timestamp="1586070694162">
+    <state x="233" y="2" key="#Notifications" timestamp="1586070901260">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#Project_Settings/0.0.1280.680@0.0.1280.680" timestamp="1586070694162" />
-    <state x="233" y="0" key="#SonarLint" timestamp="1586070690530">
+    <state x="233" y="2" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1586070901260" />
+    <state x="233" y="0" key="#Project_Settings" timestamp="1586071596682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#SonarLint/0.0.1280.680@0.0.1280.680" timestamp="1586070690530" />
+    <state x="233" y="0" key="#Project_Settings/0.0.1280.680@0.0.1280.680" timestamp="1586071596682" />
+    <state x="233" y="0" key="#SonarLint" timestamp="1586071595584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#SonarLint/0.0.1280.680@0.0.1280.680" timestamp="1586071595584" />
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1581493821948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -188,25 +193,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="286" y="44" key="#testCase.test_1_3_loginControl/0.0.1366.728@0.0.1366.728" timestamp="1581505347620" />
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1586070637801">
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1586070910472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586070637801" />
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586070910472" />
     <state width="1323" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581535855914" />
-    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1586070637801">
+    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1586070910471">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586070637801" />
+    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586070910471" />
     <state width="1323" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581535855914" />
-    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1586070637801">
+    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1586070910471">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586070637801" />
+    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586070910471" />
     <state width="1323" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581535855914" />
-    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1586070637801">
+    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1586070910472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586070637801" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586070910472" />
     <state width="1323" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581535855914" />
     <state width="1323" height="202" key="GridCell.Tab.1.bottom" timestamp="1581535855915">
       <screen x="0" y="0" width="1366" height="728" />
@@ -241,10 +246,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="71" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581500898227" />
-    <state x="113" y="96" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1586070368449">
+    <state x="113" y="96" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1586071594532">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="113" y="96" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard/0.0.1280.680@0.0.1280.680" timestamp="1586070368449" />
+    <state x="113" y="96" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard/0.0.1280.680@0.0.1280.680" timestamp="1586071594532" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1581532805821">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
