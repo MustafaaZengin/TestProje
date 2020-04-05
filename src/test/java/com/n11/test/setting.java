@@ -21,7 +21,7 @@ public class setting {
     }
     @AfterClass
     public static void after() throws InterruptedException{
-        System.out.println("mustafa");
+        System.out.println("MustafaZengin");
         // Thread.sleep(3000);
     }
     public  String getUrl(){
